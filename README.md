@@ -2,7 +2,7 @@
 
 
 Please find below my video link :
-Loom Recording Link: [https://www.loom.com/share/a0ee9e1131334d38a3330e8ec884099f?sid=b0e206f7-7d08-449f-a30c-96b7cf26c71b]
+Loom Recording Link: [https://www.loom.com/share/f79b69ebe2a945a7b92b78b0f95401a7?sid=167015e8-c310-450c-954a-272f069b455b]
 
 # Project Overview
 
@@ -14,7 +14,7 @@ You will present your reasoning for each example, record your presentation using
 
 ## Step 1: Clone the Repository
 
-Repo Link: https://github.com/CodeSpace-Academy/Module_3_StudentNo_Classcode_Group_Name-Surname_JSL03
+Repo Link: https://github.com/MathapeloT/CS20240178_WFR2407_B_Mathapelo-Thokoa_JSL03.git
 
 1. Access the provided repository containing the starter code and presentation template.
 2. Clone the repository.
